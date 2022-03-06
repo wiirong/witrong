@@ -1,0 +1,992 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">WitRong</title>
+    <subtitle type="html">魏瑢的个人博客，一个普通的经济学专业学生。</subtitle>
+    <updated>2022-03-07T00:31:10&#43;08:00</updated>
+    <id>https://witrong.com/</id>
+    <link rel="alternate" type="text/html" href="https://witrong.com/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://witrong.com/atom.xml" />
+    <author>
+            <name>魏瑢(WitRong)</name>
+            <uri>https://witrong.com/</uri>
+            
+                <email>903590780@qq.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.93.2">Hugo</generator>
+        <entry>
+            <title type="text"></title>
+            <link rel="alternate" type="text/html" href="https://witrong.com/post/tech/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/" />
+            <id>https://witrong.com/post/tech/%E6%95%B0%E5%AD%97%E7%BB%8F%E6%B5%8E/</id>
+            <updated>2022-02-15T22:02:40&#43;08:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <name>魏瑢(WitRong)</name>
+                    <uri>https://witrong.com/</uri>
+                    <email>903590780@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">数字经济“十四五”规划热点 面临的形式： 1.新一轮科技革命和产业变革新机遇 2.数据要素是数字经济深化发展的核心引擎 3.数字化服务是满足人民美好生活需要的重要途经 4.规范健康可持续……</summary>
+            
+                <content type="html">&lt;h2 id=&#34;数字经济十四五规划热点&#34;&gt;数字经济“十四五”规划热点&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;面临的形式：
+&lt;ul&gt;
+&lt;li&gt;1.新一轮科技革命和产业变革新机遇&lt;/li&gt;
+&lt;li&gt;2.&lt;strong&gt;数据要素&lt;/strong&gt;是数字经济深化发展的核心引擎&lt;/li&gt;
+&lt;li&gt;3.&lt;strong&gt;数字化服务&lt;/strong&gt;是满足人民美好生活需要的重要途经&lt;/li&gt;
+&lt;li&gt;4.&lt;strong&gt;规范健康可持续&lt;/strong&gt;是数字经济高质量发展的迫切要求&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;原则：
+&lt;ul&gt;
+&lt;li&gt;创新引领、融合发展：把&lt;strong&gt;创新&lt;/strong&gt;作为引领发展的第一动力，突出科技自立自强的战略支撑作用，促进数字技术向经济社会和产业发展&lt;em&gt;各领域广泛深入渗透&lt;/em&gt;，推进&lt;em&gt;数字技术、应用场景和商业模式融合创新&lt;/em&gt;，形成以技术发展促进全要素生产率提升、以领域应用带动技术进步的发展格局。&lt;/li&gt;
+&lt;li&gt;应用牵引、数据赋能。以数字化发展为导向，充分发挥&lt;em&gt;我国海量数据、广阔市场空间和丰富应用场景&lt;/em&gt;优势，充分释放数据要素价值，激活数据要素潜能，以数据流促进生产、分配、流通、消费各个环节高效贯通，推动数据技术产品、应用范式、商业模式和体制机制&lt;em&gt;协同创新&lt;/em&gt;。&lt;/li&gt;
+&lt;li&gt;公平竞争、安全有序。突出&lt;em&gt;竞争政策基础地位&lt;/em&gt;，坚持促进发展和监管规范并重，健全完善协同监管规则制度，强化&lt;em&gt;反垄断&lt;/em&gt;和&lt;em&gt;防止资本无序扩张&lt;/em&gt;，推动平台经济规范健康持续发展，建立健全适应数字经济发展的市场监管、宏观调控、政策法规体系，牢牢守住安全底线。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;十四五数字经济规划&lt;/th&gt;
+&lt;th&gt;info&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;1.数字基础设施&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;2.数据要素&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;3.产业数字化&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;4.数字产业化&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;5.公共服务数字化&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;6.数字经济治理&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;7.数字经济安全&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;8.数字经济国际合作&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;1优化升级-数字基础设施&#34;&gt;1.优化升级 数字基础设施&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;（1）信息网络基础设施&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;高速泛在、天地一体、云网融合、智能敏捷、绿色低碳、安全可控的智能化综合性数字信息基础设施.  骨干网扩容；千兆光纤和5G网络协同推进；5G商用部署（工业、电网、港口等情景实现独立组网规模商用）和规模应用；6G技术研发储备及国际标准化；卫星通信网络、遥感、导航定位系统；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;（2）云网协同和算网融合发展&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“东数西算”工程；&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;（3）有序推进基础设施智能升级。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;银行保险业数字化&#34;&gt;银行保险业数字化&lt;/h1&gt;
+&lt;p&gt;2022年1月银保监会发布[银行业保险业数字化转型的指导意见](&lt;a href=&#34;http://www.gov.cn/zhengce/zhengceku/2022-01/27/content_5670680.htm&#34;&gt;中国银保监会办公厅关于银行业保险业数字化转型的指导意见_银行_中国政府网 (www.gov.cn)&lt;/a&gt;)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;视角：银行保险业 自身的产业数字化&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;数字化金融服务：数字化金融工具创新；数据资产；客制化服务；&lt;/li&gt;
+&lt;li&gt;数字化经营管理：分布式架构系统；&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4466286/index.html&#34;&gt;《金融标准化“十四五”发展规划》&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;视角：银行保险业 支持引导实体经济的数字化升级（或支持数字产业化）&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;数据安全-与-数据要素的垄断规制&#34;&gt;数据安全 与 数据要素的垄断规制&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;数据权属界定不清时&lt;/strong&gt;，市场化配置数据要素的后果 -&amp;gt; 规模经济、网络外部性 -&amp;gt; 数据要素的价值测度（影响议价能力、实现完全垄断等）-&amp;gt; 资本无序扩张与垄断（大数据配合算法，使企业的垄断行为形成正反馈）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;视角：规制数字垄断，避免资本无序扩张&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;界定&lt;strong&gt;相关市场&lt;/strong&gt; -&amp;gt; 相关市场内的企业商业性开放数据（特别是对中小企业开放）；&lt;/li&gt;
+&lt;li&gt;保障数据安全和商业秩序 -&amp;gt; &lt;strong&gt;技术上脱敏增噪；开放时权属清晰&lt;/strong&gt;；法律需保障权利；&lt;/li&gt;
+&lt;li&gt;商业秩序和市场配置数据要素效率的实现基础：&lt;strong&gt;数据产权清晰&lt;/strong&gt;——垄断平台收集的用户数据的产权属于平台还是用户？（根据行政处罚判例，研究国家对此态度）&lt;/li&gt;
+&lt;li&gt;反垄断趋势下，&lt;strong&gt;平台企业和C端企业的比较优势、产业布局、技术路径、市场机遇等方面的变化&lt;/strong&gt;。（企业强弱格局短期不会变：行政只监管扰乱市场的垄断行为，而非企业领先地位. 美团接受垄断惩罚后，市场对其预期良好）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;视角：数字安全产业&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;包括提供数字安全服务的企业、政务信息化企业、反垄断时所需的第三方企业等&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.npc.gov.cn/npc/c30834/202108/a8c4e3672c74491a80b53a172bb753fe.shtml&#34;&gt;个人信息保护法&lt;/a&gt;； &lt;a href=&#34;http://www.npc.gov.cn/npc/c30834/202106/7c9af12f51334a73b56d7938f99a788a.shtml&#34;&gt;数据安全法&lt;/a&gt;；&lt;a href=&#34;http://www.moj.gov.cn/pub/sfbgw/zlk/202110/t20211029_440266.html&#34;&gt;数据出境安全评估办法（征求意见稿）&lt;/a&gt;；&lt;a href=&#34;http://www.lifanglaw.com/plus/view.php?aid=1845&#34;&gt;反垄断法修订（意见征集）社评&lt;/a&gt;  ；&lt;a href=&#34;http://www.gov.cn/zhengce/zhengceku/2022-01/20/content_5669431.htm&#34;&gt;推动平台经济规范健康持续发展的若干意见&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;以上法规政策收紧了数字安全，很多C端企业会面临更高的&lt;strong&gt;数据安全和隐私保护成本&lt;/strong&gt;。提供数字安全服务的企业：卫士通、奇安信、安恒信息、深信服、安恒信息、天融信、启明星辰、绿盟科技。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;安全+效率+隐私+流通&lt;/strong&gt;（中信反垄断系列研报2021.9，没有全文权限）&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;技术&lt;/strong&gt;：云安全（混云趋势）；保护商业秘密下的第三方算法评估；对个人信息商业化使用中的个人隐私保护技术；数据存储和处理时保证合法合规的监管技术。&lt;/li&gt;
+&lt;li&gt;数据安全的视角：（1）国家层面：广义上是国家数据主权，狭义上可以是&lt;strong&gt;政务信息化&lt;/strong&gt;中的安全与保密需要；（2）企业层面：数据作为&lt;strong&gt;生产要素&lt;/strong&gt;，是重要的商业资产；（3）个人层面：与C端企业交互时产生的数据涉及&lt;strong&gt;数据权属个人隐私保护&lt;/strong&gt;问题。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gov.cn/zhengce/content/2022-01/27/content_5670717.htm&#34;&gt;十四五市场监管规划&lt;/a&gt;：&lt;br&gt;
+(1)&amp;quot;&lt;em&gt;优化适应新经济发展的监管机制,探索创新符合平台经济、产业数字化、新个体、微经济、共享经济等新经济特点的监管模式&lt;/em&gt; &amp;quot;-&amp;gt;&lt;strong&gt;提供数字治理技术或服务的企业&lt;/strong&gt;（与大厂进行政企合作, 还是在相关市场外部找那些与受监督企业无利益关系的第三方企业);
+(2)&amp;quot;&lt;em&gt;规范平台企业的涉企收费&lt;/em&gt; &amp;quot;,&amp;quot;&lt;em&gt;知识产权大保护格局&lt;/em&gt; &amp;quot;,&amp;quot;&lt;em&gt;防止掐尖式并购&lt;/em&gt; &amp;quot; -&amp;gt; 产业(企业)数字化中的&lt;strong&gt;外部服务商&lt;/strong&gt; -- 分工更专业化, 更多小而精的外部服务商深耕细分领域(咨询服务/系统服务/数据与内容服务/硬件服务等) , 降低中小企业应用前沿技术的成本和门槛.
+{ 这外部服务商应该也算是工业互联网里的技术层? }&lt;/p&gt;
+&lt;h1 id=&#34;工业互联网新基建视角&#34;&gt;工业互联网（新基建视角）&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;本地文档&lt;/strong&gt;:
+&lt;a href=&#34;D:%5CStudy%5C%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%5C2021-03-06_36%E6%B0%AA_%E6%96%B0%E5%9F%BA%E5%BB%BA%E7%B3%BB%E5%88%97%E4%B9%8B%EF%BC%9A2020%E5%B9%B4%E4%B8%AD%E5%9B%BD%E5%9F%8E%E5%B8%82%E5%B7%A5%E4%B8%9A%E4%BA%92%E8%81%94%E7%BD%91%E5%8F%91%E5%B1%95%E6%8C%87%E6%95%B0%E6%8A%A5%E5%91%8A.pdf&#34;&gt;36氪新基建报告(2021.3)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;定义&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://www.gov.cn/zhengce/content/2017-11/27/content_5242582.htm&#34;&gt;《关于深化“互联网+先进制造业”发展工业互联网的指导意见》&lt;/a&gt;z指出：&lt;strong&gt;工业互联网&lt;/strong&gt;是新一代信息技术与制造业深度融合的产物，是以&lt;strong&gt;数字化、网络化、智能化&lt;/strong&gt;为主要特征的新工业革命的关键基础设施，日益成为新工业革命的关键支撑和深化“互联网+先进 制造业”的重要基石，对未来工业发展产生全方位、深层次、革命性影响。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;数字化&lt;/strong&gt;：依托传感、机器视觉等，全面“感知”工业流程，&lt;em&gt;将工业要素和工业场景转换为&lt;/em&gt;实时更新、可供分析的原材料数据、供应链数据、生产数据等&lt;em&gt;数据资源&lt;/em&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;网络化&lt;/strong&gt;：是指工业互联网紧密连接“人、财、物、产、供、销、存”等工业要素，打破研发、生产、管理、财务、营销、供应链和产业链的“数据孤岛”，实现工业的&lt;em&gt;远程化、模块化和协同化&lt;/em&gt;。&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;智能化&lt;/strong&gt;：基于以上二者，是&lt;em&gt;工业互联网的最终方向&lt;/em&gt;，指依托大数据、区块链、人工智能、边缘计算、工业模型等构建融合技术解决方案，实现安全可靠的智能物流、智能金融、智能生产、智能决策等，大幅提高工业生产力和资源的配置效率。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;政策汇总&lt;/strong&gt; :&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;政策阶段&lt;/th&gt;
+&lt;th&gt;政策文件&lt;/th&gt;
+&lt;th&gt;主要内容&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;两化融合&lt;/strong&gt;&lt;br&gt;2013-2015&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://www.gov.cn/zhuanti/2013-09/05/content_2595243.htm&#34;&gt;信息化和工业化深度融合专项行动计划(2013-2018年)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;提出深化物联网、互联网在工业中的应用，促进工业全产业链、全价值链信息交互和集成协作，创新要素配置、生产制造和产业组织方式，加快工业生产向网络化、智能化、柔性化和服务化转变&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;互联网＋&lt;/strong&gt;&lt;br&gt;2015-2018&lt;/td&gt;
+&lt;td&gt;(1).&lt;a href=&#34;http://www.gov.cn/zhengce/content/2015-07/04/content_10002.htm&#34;&gt;国务院关于积极 推进“互联网+” 行动的指导意见&lt;/a&gt;&lt;br&gt;(2).&lt;a href=&#34;http://www.gov.cn/zhengce/content/2017-11/27/content_5242582.htm&#34;&gt;关于深化“互联网+先进制造业” 发展工业互联网的指导意见&lt;/a&gt; &lt;br&gt;(3).&lt;a href=&#34;http://www.gov.cn/zhengce/zhengceku/2018-12/31/content_5440170.htm&#34;&gt;工业互联网APP培育工程实施方案&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;(1).充分发挥互联网在促进产业升级以及信息化和工业化深度融合中的平台作用，引导要素资源向实体经济集聚，推动生产方式和发展模式变革&lt;br&gt;(2).提出增强工业互联网产业供给能力，持续提升我国工业互联网发展水平，深入推进“互联网+”，形成实体经济与网络相互促进、同步提升的良好格局。&lt;br&gt;(3).突破一批工业技术软件化共性关键技术，构建工业APP标准体系，培育出一批具有重要支撑意义的高价值、高质量工业APP，形成一批具有国际竞争力的工业APP企业。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;新基建&lt;/strong&gt;&lt;br&gt;2018 - 今&lt;/td&gt;
+&lt;td&gt;(1).&lt;a href=&#34;http://www.gov.cn/xinwen/2018-12/21/content_5350934.htm&#34;&gt;2018中央经济工作会议&lt;/a&gt; &lt;br&gt;(2).&lt;a href=&#34;http://www.gov.cn/guowuyuan/2020zfgzbg.htm&#34;&gt;2020年政府工作报告&lt;/a&gt;&lt;br&gt;(3).&lt;a href=&#34;http://www.gov.cn/xinwen/2021-03/13/content_5592681.htm&#34;&gt;十四五规划和2035远景目标&lt;/a&gt;&lt;br&gt;(4).&lt;a href=&#34;http://www.gov.cn/zhengce/zhengceku/2021-01/13/content_5579519.htm&#34;&gt;工业互联网创新发展行动计划(2021—2023年)&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;(1).加快5G商用步伐，加强人工智能、工业互联网、物联网等新型基础设施建设。&lt;br&gt;(2).投资重点支持既促消费惠民生又调结构增后劲的“两新一重”(新型基础设施、新型城镇化，以及交通、水利等重大工程)建设。&lt;br&gt;(3).打造系统完备、高效实用、智能绿色、安全可靠的现代化基础设施体系。围绕强化数字转型、智能升级、融合创新支撑，布局建设信息基础设施、融合基础设施、创新基础设施等新型基础设施。&lt;br&gt;(4).统筹工业互联网发展和安全，提升新型基础设施支撑服务能力，拓展融合创新应用，深化商用密码应用，增强安全保障能力，壮大技术产业创新生态，实现工业互联网整体发展阶段性跃升。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;数据资源&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;(工业互联网)产业经济增加值等数字经济内细分领域的宏观数据 来自 信通院 ;&lt;/li&gt;
+&lt;li&gt;(工业互联网领域)&lt;strong&gt;投资案例&lt;/strong&gt;数量以及金额, 投资轮次, 各城市投资规模数据 均来自&lt;a href=&#34;https://cloud.jingdata.com/#/home&#34;&gt;鲸准数据(类似天眼查,要氪金)&lt;/a&gt; ;&lt;/li&gt;
+&lt;li&gt;工业互联网&lt;strong&gt;技术标准,应用案例&lt;/strong&gt;数据来自&lt;a href=&#34;http://www.aii-alliance.org&#34;&gt;工业互联网产业联盟(有白皮书和技术标准)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;边缘计算&lt;/strong&gt;产业(&lt;strong&gt;云&lt;/strong&gt;与&lt;strong&gt;端&lt;/strong&gt;的中介)的白皮书等资料可见 &lt;a href=&#34;http://www.ecconsortium.org&#34;&gt;边缘计算联盟&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;产业链&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;(1)应用层: 机械, 汽车, 化工, 家电, 电子信息制造, 钢铁 ;&lt;/li&gt;
+&lt;li&gt;(2)技术层: 云计算, 边缘计算, 信息安全, 工业互联网平台, 工业软件 ;&lt;/li&gt;
+&lt;li&gt;(3)基础层: 芯片, 传感器, 网络.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;细分链层级&lt;/th&gt;
+&lt;th&gt;内容(天风证券,2022.1.24)&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;底层硬件&lt;/td&gt;
+&lt;td&gt;芯片(逻辑,存储) ; 硬件&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;基础设施&lt;/td&gt;
+&lt;td&gt;网络 ; 存储 ; 计算&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;基础软件&lt;/td&gt;
+&lt;td&gt;操作系统(服务器,PC,手机,嵌入式);数据库;中间件(服务器,交易,消息)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;平台&lt;/td&gt;
+&lt;td&gt;企业中台(业务中台,数据中台);开发环境(IPaas,aPaaS,DaaS);&lt;br&gt;计算存储(公有云,私有云,混合云)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;企业应用&lt;/td&gt;
+&lt;td&gt;应用软件(ERP等);生产制造;企业协同&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;行业应用&lt;/td&gt;
+&lt;td&gt;智慧+ 城市/工业/农业/零售/物流/政务&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;strong&gt;安全&lt;/strong&gt;&lt;/td&gt;
+&lt;td&gt;软件层面:身份管理,权限管理,数据安全,网络安全,终端安全;&lt;br&gt;硬件层面:硬件安全,安全设备&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;36氪工业互联网发展指数-评价维度&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;发展环境&lt;/strong&gt;:(1)&lt;em&gt;政策环境&lt;/em&gt;(相关政策数量);(2)&lt;em&gt;经济环境&lt;/em&gt;(近一年名义GDP增速);(3)&lt;em&gt;交流环境&lt;/em&gt;(相关大型峰会数量);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;资金支持&lt;/strong&gt;:(1)&lt;em&gt;政府投资&lt;/em&gt;(政府产业投资引导基金的规模和数量);(2)&lt;em&gt;VC/PE投资&lt;/em&gt;(机构投资规模和案例数);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;研发能力&lt;/strong&gt;:(1)&lt;em&gt;人才数量&lt;/em&gt;(人才总量和杰出人才数量);(2)&lt;em&gt;科研能力&lt;/em&gt;(开设理工课程双一流大学数量, 相关领域论文产出量, 专利申请数量);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;基础支持&lt;/strong&gt;:(1)&lt;em&gt;孵化支持&lt;/em&gt;(孵化器和众创空间数量);(2)&lt;em&gt;网络与算力支持&lt;/em&gt;(算力基础设施数量, 5G基站建设数量);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;发展成效&lt;/strong&gt;:(1)&lt;em&gt;示范项目&lt;/em&gt;(工信部工业互联网试点示范项目数量);(2)&lt;em&gt;企业发展&lt;/em&gt;(工业互联网大型公司数量包括上市公司和独角兽, 工业互联网上市公司市值, 工网企业总量);(3)&lt;em&gt;产业带动&lt;/em&gt;(近三年工业增加值变化率).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;问题&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;开发周期长, 成本高;&lt;/li&gt;
+&lt;li&gt;升级成本高 ;&lt;/li&gt;
+&lt;li&gt;专业技能要求高, 人才少.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;建议&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;加快行业标准制定, 打通上下游间数据孤岛(将各个场景联通) ;&lt;/li&gt;
+&lt;li&gt;政府发放升级补贴和风险补偿;&lt;/li&gt;
+&lt;li&gt;加强人才培育,组织在岗人员培训.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;产业数字化&#34;&gt;产业数字化&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;企业数字化的实现阶段&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;文档数字化 (国产替代, 产品迭代)&lt;/li&gt;
+&lt;li&gt;流程数字化: ERP, CRM, LOB. (国产替代, 流程标准化, 行业数字化)&lt;/li&gt;
+&lt;li&gt;计算存储&lt;strong&gt;云化&lt;/strong&gt;: 工业生产数据仓库, 云计算, 混合云, 分布式数据系统&lt;/li&gt;
+&lt;li&gt;数据智能化 : 服务化(中台)，深度协同, 低代码, 大规模ML，云原生的基础设施&lt;/li&gt;
+&lt;li&gt;决策智能化: 决策系统(数据-&amp;gt;模型), 自动化系统(AI质量控制,RPA), IoT系统(物联网)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;数字货币&#34;&gt;数字货币&lt;/h2&gt;
+&lt;p&gt;政策 、报告、企业、应用场景。&lt;/p&gt;
+&lt;p&gt;形成笔记，先把政策总结一下。数字货币涉及那些方面，各方面有哪些问题，有哪些政策，&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;政策背景:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;治理与监管政策&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;央行针对支付行业发布了多项管理办法，行业监管与合规要求不断升级细化，合规要求进一步升级，第三方支付和互联网金融行业已迈入合规发展新阶段。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.federalreserve.gov/publications/january-2022-cbdc.htm&#34;&gt;美联储&lt;/a&gt;对央行数字货币(CBDC)的审慎态度:&lt;/li&gt;
+&lt;li&gt;防范化解混业经营的金融科技机构带来的系统性风险：&lt;/li&gt;
+&lt;li&gt;加密资产监管：2021.9.24，发布《关于进一步防范和处置虚拟货币交易炒作风险的通知》。上述政策是2017年9月4日《关于防范代币发行融资风险的公告》后，中国加密资产监管史上最严厉的政策。政策变化揭示的趋势 ^[国盛证券2021.10.23《从比特币期货ETF获批，看全球区块链产业变迁》]：1）监管形势更严峻；2）监管部门更多，最高法、最高检、公安部、外汇局入局，定性更严厉；3）涉及的监管原因更多；4）监管举措更多；5）涉及业态更多；6）涉及营业行为更多&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;宏观经济运行政策&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;技术路线与发展方向政策&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;央行数币标准研制&lt;/strong&gt;: &lt;a href=&#34;http://www.pbc.gov.cn/zhengwugongkai/4081330/4081344/4081395/4081686/4466286/index.html&#34;&gt;《金融标准化“十四五”发展规划》&lt;/a&gt;指出要综合考量安全可信基础设施、发行系统与存储系统、登记中心、支付交易通信模块、终端应用等，探索建立完善法定数字货币基础架构标准。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;2021年7月16日，央行发布《中国数字人民币的研发进展白皮书》，主要内容包括研发背景、定义和目标愿景、设计框架（设计原则、设计特性、运营体系、钱包、合规责任与合规主体界定、技术路线、监管框架）、央行数字货币的可能影响与数字人民币体系的应对策略、工作进展（已开展的工作、展望），明确了数字人民币不计息、双层运营体系、不需与银行账户绑定即可使用等。^[国盛证券2021.07.17]&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;区块链作为工业基础设施
+（信通院2021.10.02）工业和信息化部印发《工业互联网创新行动计划（2021-2023）》，提出建设兼容开放、服务全球的标识解析服务系统，推动标识解析与区块链、大数据等技术融合创新，构建基于标识解析的区块链基础设施，支持各地部署不少于20个融合节点，提供基于区块链的标识资源分配、管理、互操作等基础服务。
+2021年6月工业和信息化部、中央网络安全和信息化委员会办公室联合发布《关于加快推动区块链技术应用和产业发展的指导意见》，明确提出将区块链技术应用于工业互联网的标识解析、边缘计算、协同制造等环节，培育新模式、新业态，同时也就区块链融合发展在实现路径、标准体系、质量品牌、网络安全等方面提出了更高的要求。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;产业链、应用场景&lt;/strong&gt;:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;聚合支付&lt;/strong&gt;:(涉及消费)  &lt;em&gt;旧的&lt;/em&gt;聚合支付是将有支付牌照的第三方支付工具进行聚合,通过银行或第三方支付渠道完成现金交易的清结算, 并提供类似Dashboard功能对所有渠道的收付款金额实现监控与管理. &lt;em&gt;数字人民币APP&lt;/em&gt;已有&amp;quot;子钱包&amp;quot;功能,可以将央行数币直接与在线消费平台连接, 随着数币落地推广,有望实现更安全合规便捷的聚合支付. &lt;em&gt;问题 :&lt;/em&gt; 数字人民币推进进度不及预期, 数币的运作模式有待确认.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;物联网&lt;/strong&gt;: (消费端)  (1)&lt;em&gt;数字货币钱包&lt;/em&gt; 的发展会推动智能设备(穿戴)的标准提高(至少配备NFC功能),也会推动商业银行及其IT供应商对银行IT系统不断升级改造；(2)&lt;em&gt;数字货币硬钱包&lt;/em&gt; 如卡片搭扣等形式的硬件,也会催生新的支付渠道以及应用场景的变化.&lt;/li&gt;
+&lt;li&gt;流通场景:
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;取款,存款场景:&lt;/strong&gt; 对应企业可参 ^[ 国盛证券研究所.2020.4.17.《区块链：一图看懂央行数字货币相关标的》]
+数字身份认证 ;
+离线支付及数币硬件 ;&lt;br&gt;
+ATM和银行柜台业务的变化 ;
+&lt;em&gt;银行 IT&lt;/em&gt;：关键的三点流通场景是加密验证、管理应用系统和手机客户端。
+第三方支付 ;
+智能POS机&lt;/li&gt;
+&lt;li&gt;在相同分发机构中的交易&lt;/li&gt;
+&lt;li&gt;跨机构交易(支付渠道之间的互认及其效率)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/li&gt;
+&lt;li&gt;银行IT主要可分为渠道（包括软硬件）、业务（银行职能如支付清算、信贷、交易等）、管理（行政管理、风险监管、审计稽核等） 三类。IDC咨询报告了2020年中国银行业IT解决方案市场规模为502.4亿元，同比增长18.0%，并预计到2025年前年均复合增长率为14.64%。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;技术层:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;区块链.
+&lt;em&gt;带来的问题:&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;Web3.0  或  元宇宙&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;企业:&lt;/strong&gt;
+飞天诚信, 恒生电子, 神州信息, 汇金股份, 奥马电器, 数字认证, 银之杰，
+长亮科技， 科蓝软件， 拉卡拉&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;(1) &lt;a href=&#34;https://www.ftsafe.com.cn&#34;&gt;飞天诚信 300386.SZ&lt;/a&gt; 做数字安全和区块链, 有数币硬件产品,并向商业银行提供数币系统服务&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(2)&lt;strong&gt;海联金汇 002537.SZ&lt;/strong&gt; 汽车家电配件的智能制造板块+移动信息服务和第三方支付服务为主的金融科技板块.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;(3)优博讯 :智能POS终端．我国智能POS机渗透率提升，数字货币带来升级改造需求。2020年全球POS出货量超1.35亿台，亚太、拉美占比较大；竞争格局上，全球市场Worldline引领，华智融等国内厂商位列前茅。2020年我国联网POS机数量约3833万台，其中智能POS机则呈现井喷式增长态势，由2015年的9万台增长到了2019年的1143万台，对应渗透率则由2015年的0.4%快速提升至2019年的37%。此外，数字人民币加速发展，数字人民币与银行账户余额、第三方支付账户余额等相比，在货币交易环节需支持双离线环节。应对数字货币的发展，POS机需要新增数字人民币支付功能，并基于双离线支付进行改造升级。^[华创证券研究所.2022.1.8.《优博讯（300531）深度研究报告：PDA海外拓展可期，数字货币加速智能POS渗透与改造》]&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;IT业解决方案市场格局：中电金信占大头，长亮科技，宇信科技，神州信息，南天信息，中软国际，天阳科技等。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;对银行金融体系的影响&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;有息数字货币是商业银行储蓄存款的替代品,其能够改变商业银行的贷款模式,&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text"></title>
+            <link rel="alternate" type="text/html" href="https://witrong.com/post/user/r%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/" />
+            <id>https://witrong.com/post/user/r%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/</id>
+            <updated>2021-06-06T19:49:19&#43;08:00</updated>
+            <published>0001-01-01T00:00:00&#43;00:00</published>
+            <author>
+                    <name>魏瑢(WitRong)</name>
+                    <uri>https://witrong.com/</uri>
+                    <email>903590780@qq.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">数据合并 HeBIngHou &amp;lt;- merge(数据框A,数据框B,by = c(&amp;quot;证券代码&amp;quot;,&amp;quot;time&amp;quot;)) 将短型数据转为Long Form长型面板数据 library(reshape2) LongFormDF &amp;lt;- me……</summary>
+            
+                <content type="html">&lt;p&gt;数据合并
+HeBIngHou &amp;lt;- merge(数据框A,数据框B,by = c(&amp;quot;证券代码&amp;quot;,&amp;quot;time&amp;quot;))&lt;/p&gt;
+&lt;p&gt;将短型数据转为Long Form长型面板数据&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;library(reshape2)
+LongFormDF &amp;lt;- melt(短型面板数据框,
+            id.vars = c(&amp;#39;证券代码&amp;#39;,&amp;#39;保留不变的列&amp;#39;),
+            na.rm = FALSE ,
+            variable.name=&amp;#39;time将矩阵列名（常为年份）整理为一个新变量&amp;#39;,
+            value.name=&amp;#39;矩阵内所有数值的变量名&amp;#39;)
+&lt;/code&gt;&lt;/pre&gt;&lt;h1 id=&#34;data-mining-with-rcases&#34;&gt;《Data Mining with R：cases》&lt;/h1&gt;
+&lt;p&gt;r包 &lt;code&gt;DMwR&lt;/code&gt;是为此书设计的包，含函数和数据，数据和代码也在&lt;a href=&#34;https://www.dcc.fc.up.pt/~ltorgo/DataMiningWithR/code2.html&#34;&gt;主页&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;read.table&lt;/code&gt;读取表格。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;参数&lt;/th&gt;
+&lt;th&gt;含义&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;header&lt;/td&gt;
+&lt;td&gt;将表格的第一行设置为列名&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dec&lt;/td&gt;
+&lt;td&gt;目标文件中小数点的形状（decimal point）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;col.names = c(&#39;&#39;)&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;列名（就是变量名）&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;row.names&lt;/td&gt;
+&lt;td&gt;行名，默认就是从1开始排序&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;ul&gt;
+&lt;li&gt;将画幅分割成一行两列，使接下来两幅图以左右布局呈现。&lt;code&gt;par(mrow=c(1,2))&lt;/code&gt;,画完后记得&lt;code&gt;par(mrow=c(1,1))&lt;/code&gt;恢复c（1，1）画幅。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;r数据清洗及应用&#34;&gt;《R数据清洗及应用》&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;www.data-cleaning.org&#34;&gt;配套网站&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第五章-清洗文本数据&#34;&gt;第五章 清洗文本数据&lt;/h2&gt;
+&lt;h3 id=&#34;字符规范化&#34;&gt;字符规范化&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;指让各个选项变得一致的过程.两种形式:&lt;strong&gt;编码规范化&lt;/strong&gt;(文本的技术表示)和&lt;strong&gt;符号规范化&lt;/strong&gt;(字符转换)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;编码转换和unicode规范化&#34;&gt;编码转换和Unicode规范化&lt;/h4&gt;
+&lt;p&gt;baseR自带同各国iconv规范的转换编码的工具，使用&lt;code&gt;enc2utf8()&lt;/code&gt;即可将某个字符向量的所有元素都转换为UTF-8格式.任何编码之间的转换都可以通过&lt;code&gt;iconv()&lt;/code&gt;完成,使用&lt;code&gt;iconvlist()&lt;/code&gt;可查询支持的编码规范:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;y &amp;lt;- iconv(x , to = &amp;#34;[encoding]&amp;#34; , from = &amp;#34;[encoding]&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;另有&lt;code&gt;stringi&lt;/code&gt;软件包,基于ICU库(ICU,2014),可以确保不受平台的限制.&lt;/p&gt;
+&lt;h3 id=&#34;正则表达式&#34;&gt;正则表达式&lt;/h3&gt;
+&lt;h4 id=&#34;基本正则表达式&#34;&gt;基本正则表达式&lt;/h4&gt;
+&lt;p&gt;正则表达式，又称&lt;em&gt;规则表达式&lt;/em&gt;，是一种文本模式，通常用来&lt;strong&gt;检索、替换和控制文本&lt;/strong&gt;。主要包括&lt;code&gt;a &lt;/code&gt;到 &lt;code&gt;z &lt;/code&gt;的字母以及一些特殊的元字符。&lt;br&gt;
+正则表达式的&lt;strong&gt;作用&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;测试字符串内的模式。例如，可以测试输入字符串，以查看字符串内是否出现电话号码模式或信用卡号码模式。这称为数据验证。&lt;/li&gt;
+&lt;li&gt;替换文本。可以使用正则表达式来识别文档中的特定文本，完全删除该文本或者用其他文本替换它。&lt;/li&gt;
+&lt;li&gt;基于模式匹配从字符串中提取子字符串。可以查找文档内或输入域内特定的文本。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;programming-skills-for-data-science&#34;&gt;《Programming Skills for Data Science》&lt;/h1&gt;
+&lt;p&gt;中译：数据科学之编程技术（使用r进行数据清理、分析和可视化）&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/programming-for-data-science/in-action&#34;&gt;实践代码&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;https://github.com/programming-for-data-science&#34;&gt;在线练习&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;git-scm.com/downloads&#34;&gt;git下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;第一章 设置计算机 &lt;br&gt;
+第二章 命令行&lt;br&gt;
+第三章 git版本控制&lt;br&gt;
+第四章 Markdown&lt;br&gt;
+第五章 R语言&lt;/p&gt;
+&lt;h2 id=&#34;第六章-函数&#34;&gt;第六章 函数&lt;/h2&gt;
+&lt;p&gt;数据科学中，将指令分组为可重复执行的函数很有帮助：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;数据管理&lt;/strong&gt;。对加载和组织数据的指令进行分组，以便将其应用于多个数据集&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据分析&lt;/strong&gt;。储存计算感兴趣指标的步骤，以便对多个变量进行重复分析&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;数据可视化&lt;/strong&gt;。定义创建具有特定结构和样式的图形的过程，以便生成一致的报表。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;R语言附带的内置函数（也称base R function,可在&lt;a href=&#34;statmethods.net/management/functions.html&#34;&gt;quick R&lt;/a&gt;查看).&lt;br&gt;
+更多函数参考则参见&lt;a href=&#34;cran.r-project.org/doc/contrib/Short-refcard.pdf&#34;&gt;R函数汇总备忘单&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;加载函数&#34;&gt;加载函数&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# stringr包用于处理字符串str_count()函数能够返回&amp;#39;子字符串&amp;#39;在单词中出现的次数
+library(stringr)
+str_count(&amp;#34;Mississippi&amp;#34;,&amp;#34;i&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;改进R代码格式的包:&lt;code&gt;lintr&lt;/code&gt;包可检测违反tidyverse风格指南的代码.&lt;code&gt;styler&lt;/code&gt;包将建议的格式用于代码.加载这些包后,通过&lt;code&gt;lint(&amp;quot;文件名.r&amp;quot;)&lt;/code&gt;或者&lt;code&gt;style_file(&amp;quot;文件名.r&amp;quot;)&lt;/code&gt;来规范代码格式&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;编写函数&#34;&gt;编写函数&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;函数的组成:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;参数&lt;/strong&gt;:分配给函数的值,使用&lt;code&gt;function(变量名称,变量名)&lt;/code&gt;来表明正在创建函数,括号()中的单词是变量名称,用逗号分隔,这些变量将接收作为参数传入的值&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;函数体&lt;/strong&gt;:介于大括号&lt;code&gt;{}&lt;/code&gt;之间的代码块.用于指定函数要执行的所有指令(代码行).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;返回值&lt;/strong&gt;:一个函数将输出该函数的最后一个语句(行)中得到的任何值.也可以将希望返回的值传递给&lt;code&gt;return()&lt;/code&gt;函数.出于格式简洁,如非要输出的值包含之前语句求出的值,否则直接返回最后一行的就行,可以省略return()&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;不显式地使用&lt;code&gt;else&lt;/code&gt;子句,而是在不满足if条件的时候让函数&amp;quot;继续运行&amp;quot;.这样避免else代码可以将if条件&lt;strong&gt;视为只处理特殊情况&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;add_title &amp;lt;- function(full_name,title){
+    if(starsWith(full_name,title)){
+        return(full_name)
+    }
+
+    name_with_title &amp;lt;- paste(title,full_name)
+    name_with_title
+}
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;第七章-向量&#34;&gt;第七章 向量&lt;/h2&gt;
+&lt;p&gt;向量是存储再单个变量中的一维数据的集合。向量中所有元素&lt;strong&gt;必须属于同一类型&lt;/strong&gt;（如全部元素都是数字/字符/逻辑，不能有其中两类）&lt;/p&gt;
+&lt;h3 id=&#34;创建向量&#34;&gt;创建向量&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;用内置的&lt;code&gt;c()&lt;/code&gt;函数,将值组合成向量.&lt;/li&gt;
+&lt;li&gt;用&lt;code&gt;seq()&lt;/code&gt;函数,接受两个参数,在它们之间生成整数的向量,可用第三个参数指定相邻数字的间隔.&lt;/li&gt;
+&lt;li&gt;用冒号&lt;code&gt;a:b&lt;/code&gt;生成一个序列,返回从a到b的向量,元素值以1递增.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;向量化操作&#34;&gt;向量化操作&lt;/h3&gt;
+&lt;p&gt;向量的加减乘除运算都是按元素进行操作的.想将两向量简单拼接在一起可用&lt;code&gt;paste(v1,v2,sep=&amp;quot;&amp;quot;)&lt;/code&gt;函数&lt;/p&gt;
+&lt;h4 id=&#34;循环&#34;&gt;循环&lt;/h4&gt;
+&lt;p&gt;两个向量数目不等,进行操作时会发生循环,r将重复使用较短向量中的元素&lt;/p&gt;
+&lt;h4 id=&#34;多数都是向量&#34;&gt;多数都是向量&lt;/h4&gt;
+&lt;p&gt;R 将所有字符\数字\布尔值都存储为向量(单个的就是长度为1的向量)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;code&gt;length()&lt;/code&gt;可获取向量长度.如果用length()来检查单个字符串,则返回向量长度1.要用&lt;code&gt;nchar()&lt;/code&gt;才能获取字符串中的字符数&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;向量化函数&#34;&gt;向量化函数&lt;/h4&gt;
+&lt;p&gt;所有基本数据类型都被存储为向量.所以很多函数都可以应用于向量,而不仅仅是作用于单个值.实际上,函数面对向量和面对单个值的工作方式相同,因为&lt;strong&gt;单个值只是向量的一个实例&lt;/strong&gt;&lt;br&gt;
+所以们可以在向量上使用任何函数,它将以&lt;strong&gt;相同的向量化、元素级的方式运行&lt;/strong&gt;:函数将产生一个新的向量,其中已按顺序将函数作用于每个单独元素.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;由于各种操作在R中是向量化的,所以不需要显式地迭代向量,也就是几乎不需要使用循环.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;向量索引获取子集&#34;&gt;向量索引,获取子集&lt;/h3&gt;
+&lt;p&gt;通过索引index引用向量中的元素.需要注意: &lt;strong&gt;R中索引从 1 开始&lt;/strong&gt;,这不同于其他语言的从 0 开始索引.&lt;/p&gt;
+&lt;h3 id=&#34;向量过滤&#34;&gt;向量过滤&lt;/h3&gt;
+&lt;p&gt;在索引的位置,方括号里面用逻辑值True\False也可实现过滤&lt;br&gt;
+&lt;code&gt;smallshoes &amp;lt;- shoe_sizes &amp;lt; 6.5&lt;/code&gt;可以按照shoe_sizes的顺序一组逻辑值(大于6.5则为True)&lt;br&gt;
+&lt;code&gt;shoe_sizes[shoe_sizes &amp;lt; 6.5]&lt;/code&gt;也可实现筛选&lt;/p&gt;
+&lt;h3 id=&#34;向量修改&#34;&gt;向量修改&lt;/h3&gt;
+&lt;p&gt;将新值赋予向量中某个索引即可更新该索引位置的值&lt;code&gt;prices[3] &amp;lt;- 36&lt;/code&gt;&lt;br&gt;
+在向量中创建新元素(在向量最后加一个索引)&lt;code&gt;prices[length(prices)+1] &amp;lt;- 89&lt;/code&gt;&lt;br&gt;
+跟踪索引很困难,且索引会随数据改变而改变,所以最好的方法是将原向量与新元素组成一个新的向量&lt;code&gt;more_people &amp;lt;- c(people,&amp;quot;Johnson&amp;quot;)&lt;/code&gt;&lt;/p&gt;
+&lt;h3 id=&#34;修改和过滤结合&#34;&gt;修改和过滤结合:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;作用:常用于打包和清理数据,&lt;strong&gt;允许识别和操作无效值或其他异常值&lt;/strong&gt;.&lt;br&gt;
+&lt;code&gt;v1[v1 &amp;gt; 10] &amp;lt;- 10&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;第八章-列表&#34;&gt;第八章 列表&lt;/h2&gt;
+&lt;h3 id=&#34;list和vector的区别&#34;&gt;list和vector的区别&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;列表也是一维的数据组合,但列表&lt;strong&gt;可以储存不同类型的元素&lt;/strong&gt;,甚至可以包含向量和其他列表.&lt;/li&gt;
+&lt;li&gt;另外,列表的元素可以&lt;strong&gt;用名称进行标记&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[警告]R中列表list的定义不同于其他语言,如python中至于dict结构才能实现名称标记
+[注意]若要标记集合中的元素,使用列表!虽然可以用名称标记向量元素,但是不常见且访问元素时语法复杂.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;向量使用单括号&lt;code&gt;[]&lt;/code&gt;来按索引访问元素,但列表使用双括号&lt;code&gt;[[]]&lt;/code&gt;来按索引访问元素.注意列表中使用单括号&lt;code&gt;[]&lt;/code&gt;将会返回符合括号内要求的(子)列表,而非元素.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;创建list和命名其中元素&#34;&gt;创建list和命名其中元素&lt;/h3&gt;
+&lt;p&gt;用list()函数创建列表即可,同时要注意可以(也应该如此)为列表中每个元素指定名称,方法类似于为函数命名参数:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;person &amp;lt;- list(
+    first_name = &amp;#34;Ada&amp;#34;,
+    job = &amp;#34;Programmer&amp;#34;,
+    salary = &amp;#34;78000&amp;#34;,
+    in_union= TRUE,
+    favorites = list(
+        music = &amp;#34;jazz&amp;#34;,
+        food = &amp;#34;pizza&amp;#34;
+    )
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;ul&gt;
+&lt;li&gt;标记list元素名称的好处:访问特定元素更容易\更不易出错,也易于理解,建议始终标记创建的列表&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;可以使用names()函数获取列表中各项的名称&lt;/strong&gt;,这对理解其他数据源的变量结构很有用.&lt;/li&gt;
+&lt;li&gt;列表中包含列表的这种双层结构常见于表示JSON数据(第14章)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;访问列表元素&#34;&gt;访问列表元素&lt;/h3&gt;
+&lt;p&gt;由于通常情况下列表的元素具有标记名称,所以可以通过它们的标记名称而不是向量那样必须用索引号来访问.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用&lt;code&gt;$&lt;/code&gt;表示法来指定访问的&lt;strong&gt;元素&lt;/strong&gt;名称($符号可看作英语中的所有格符号,意为xxx的)&lt;code&gt;person$salary&lt;/code&gt;就代表person列表中的salary元素值,有嵌套列表的话可以用多个&lt;code&gt;$&lt;/code&gt;来访问&lt;/li&gt;
+&lt;li&gt;用&lt;code&gt;[[]]&lt;/code&gt;双括号来访问指定&lt;strong&gt;元素&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;用&lt;code&gt;[]&lt;/code&gt;单括号来访问指定的&lt;strong&gt;子列表&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;修改列表&#34;&gt;修改列表&lt;/h3&gt;
+&lt;p&gt;直接向现有列表的元素分配新值就行.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;技巧:将&lt;code&gt;NULL&lt;/code&gt;分配给现有列表元素来删除列表元素.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NULL表示&amp;quot;未定义&amp;quot;,NA表示&amp;quot;缺失值&amp;quot;.所以NULL可用于删除值.&lt;a href=&#34;r-bloggers.com/r-na-vs-null&#34;&gt;参考&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;laapply函数&#34;&gt;laapply()函数&lt;/h3&gt;
+&lt;p&gt;r中大多数函数都是&lt;strong&gt;向量化&lt;/strong&gt;的,因此向量可以直接作为参数传入函数中.但将函数应用于列表中的每个项目则需要借用lapply()函数的帮助.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;要注意lapply()中第一个参数是列表名称,第二个参数是函数名称,函数名不带括号.第三个参数及之后的位置上是函数的各种参数.
+例如将转换大写字母的函数toupper()作用于列表people中的每一个元素时,可用:&lt;code&gt;people_upper &amp;lt;- lapply(people,toupper)&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;lapply()不修改原列表,而是返回一个新列表.&lt;/li&gt;
+&lt;li&gt;通常将&lt;code&gt;lapply()&lt;/code&gt;与自定义函数一起使用:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;greet &amp;lt;- function(item){
+    paste(&amp;#34;Hello&amp;#34;,item)  #函数体的最后一行将被return
+}
+
+people &amp;lt;- c(&amp;#34;sarah&amp;#34;,&amp;#34;han&amp;#34;,&amp;#34;zhang&amp;#34;,&amp;#34;wang&amp;#34;)
+
+greetings &amp;lt;- lapply(people,greet)
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;**apply()**函数系列成员:sapply()作用于向量,返回的也是向量,考虑到大多数r函数都是向量化的,sapply()一般只用于自定义函数.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;第九章-理解数据&#34;&gt;第九章 理解数据&lt;/h2&gt;
+&lt;p&gt;开放的数据集:&lt;br&gt;
+政府出版物:&lt;br&gt;
+&lt;a href=&#34;data.gov&#34;&gt;美国政府公开数据&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;open.canada.ca/en/open-data&#34;&gt;加拿大政府&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;data.gov.in&#34;&gt;印度&lt;/a&gt;&lt;br&gt;
+新闻数据:&lt;br&gt;
+&lt;a href=&#34;developer.nytimes.com&#34;&gt;纽约时报开发者网络&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;data.fivethirtyeight.com&#34;&gt;数据政治博客FiveTirtyEight&lt;/a&gt;&lt;br&gt;
+科学研究:&lt;br&gt;
+&lt;a href=&#34;nature.com/sdata/policies/repositories&#34;&gt;自然杂志推荐的数据仓库&lt;/a&gt;&lt;br&gt;
+社交网络:&lt;br&gt;
+&lt;a href=&#34;developer.twitter.com/en/docs&#34;&gt;推特开发平台&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;developer.google.com/apis-explorer&#34;&gt;Google API&lt;/a&gt;&lt;br&gt;
+在线社区:&lt;br&gt;
+&lt;a href=&#34;www.kaggle.com&#34;&gt;Kaggle数据科学与机器学习之家&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;opendata.socrata.com&#34;&gt;Socrata数据服务平台&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;archive.ics.uci.edu/ml/index.php&#34;&gt;UCI机器学习库&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;reddit.com/r/datasets&#34;&gt;r/dataset&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;第十章-数据框&#34;&gt;第十章 数据框&lt;/h2&gt;
+&lt;h3 id=&#34;数据框与列表与向量&#34;&gt;数据框与列表与向量&lt;/h3&gt;
+&lt;p&gt;数据框实际上是列表。这个列表中每一个元素都是长度相同的向量（数据框的列就是一个向量）。但数据框又有其特点，使其特别适合处理数据表。&lt;/p&gt;
+&lt;h3 id=&#34;使用数据框&#34;&gt;使用数据框&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;创建&lt;/strong&gt;：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;用&lt;code&gt;data.frame()&lt;/code&gt;来组合多个向量.该函数接受向量作为参数,并创建一个每列对应一个向量的表.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;data.frame()的参数可选:&lt;code&gt;stringsAsFactors = FALSE&lt;/code&gt;告诉R将那个包含字符串的向量视为典型向量,而不是因子factor.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;从外部加载数据集&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;数据帧的结构&lt;/strong&gt;  &lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;函数&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;描述&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;nrow(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;返回数据框的行数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ncol(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;返回数据框的列数&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;dim(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;数据框的尺寸(行数\列数)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;colnames(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;数据框的列名称&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;rownames(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;行名&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;head(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;前几行(作为新的数据框)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;tail(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;后几行&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;View(数据框)&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;Rstudio中用查看器查看数据框&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;{注意:}使用&lt;code&gt;colnames(数据框) &amp;lt;- 新列名向量&lt;/code&gt;可以为数据框分配一组新的列名&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;访问数据框&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;数据框是&lt;strong&gt;列表&lt;/strong&gt;--&amp;gt;用美元表示法(&lt;code&gt;my_dataframe$column_name&lt;/code&gt;)或者双括号表示法(&lt;code&gt;my_df[[&amp;quot;column_name]]&lt;/code&gt;)来访问整个列.&lt;/li&gt;
+&lt;li&gt;数据框独特的访问法:单括号配合逗号--&amp;gt;&lt;code&gt;my_df[&amp;quot;row_name&amp;quot; , &amp;quot;col_name&amp;quot;]&lt;/code&gt;可访问指定行名和列名的元素(若逗号右边的列参数空缺,则访问整行);也可&lt;code&gt;my_df[5 , 6]&lt;/code&gt;来访问第5行第6列的元素.注意:在指定行列名称或行列索引时,可以混合使用:&lt;code&gt;df[5,&amp;quot;height&amp;quot;]&lt;/code&gt;来访问第5行且列名为height的元素.&lt;/li&gt;
+&lt;li&gt;因为数据框的列实质上就是向量,所以实际上就是用名称或索引指定要提取的向量,这允许一次获取多个行列.&lt;/li&gt;
+&lt;li&gt;也可以使用布尔值的向量来指定感兴趣的索引:&lt;code&gt;my_df[my_df$height &amp;gt; 70 , ]&lt;/code&gt;就能筛选数据框中height大于70的所有行.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;按列名(字符串)而不是列号进行筛选更容易\更干净\更不易出错.应该用列名指定列,并使用过滤器指定感兴趣的行.&lt;br&gt;
+&lt;strong&gt;技巧:&lt;/strong&gt; 使用&lt;code&gt;is.data.frame()&lt;/code&gt;函数来确认数据对象是数据框.也可使用&lt;code&gt;as.data.frame()&lt;/code&gt;函数来将对象转换为数据框.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;使用csv数据&#34;&gt;使用CSV数据:&lt;/h3&gt;
+&lt;p&gt;CSV只存储数据,用逗号分隔值.用&lt;code&gt;read.csv(&amp;quot;文件名.csv&amp;quot; , stringsAsFactors = FALSE )&lt;/code&gt;函数来加载数据.用&lt;code&gt;write.csv(数据框名 , &amp;quot;新建表名.csv&amp;quot; , row.names = FALSE)&lt;/code&gt;来写入csv文件.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意:如果数据中缺少元素,R将用逻辑值NA填充该单元格,代表&amp;quot;不可用&amp;quot;.&lt;a href=&#34;statmethods.net/input/missingdata.html&#34;&gt;一些处理方法&lt;/a&gt;&lt;br&gt;
+&lt;a href=&#34;vincentarelbundock.github.io/Rdatasets/datasets.html&#34;&gt;R软件包数据集&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;因子变量&#34;&gt;因子变量&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;注意:在加载或创建数据帧时,应该**始终包含&lt;code&gt;stringsAsFactors = FALSE&lt;/code&gt;参数.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;因子是一种数据结构,用于优化由一组优先类别组成的变量(即类别变量).这将节省大量内存.factor将每个字符串转存为一个数字(level),并记住数字与其标签(原始数据字符串)之间的关系.&lt;br&gt;
+&lt;strong&gt;因子不是向量&lt;/strong&gt;,这意味着在向量上使用的大多数操作和函数都无法对因子起效.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果创建一个以字符串向量作为列的数据框,如使用read.csv()函数时,字符串向量将被自动视为一个因子,&lt;strong&gt;除非明确告诉它不是!&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;第十一章-使用dplyr操作数据&#34;&gt;第十一章 使用dplyr操作数据&lt;/h2&gt;
+&lt;h3 id=&#34;操作数据语法&#34;&gt;操作数据语法&lt;/h3&gt;
+&lt;p&gt;dplyr包提供了一组**动词(函数)**来描述和执行常见的数据准备工作:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Select&lt;/strong&gt;:选择,从数据集中选择感兴趣的特征值(列);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Filter&lt;/strong&gt;:过滤,过滤掉不相关的数据,只保留感兴趣的观察值(行);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mutate&lt;/strong&gt;:修改,向数据集添加更多特征(列);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Arrange&lt;/strong&gt;:排序,按特定顺序排列观察结果(行);&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Summarize&lt;/strong&gt;:汇总,根据集合汇总数据;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Join&lt;/strong&gt;:连接,将多个数据集连接到一个数据框中.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;核心dplyr函数&#34;&gt;核心dplyr函数&lt;/h3&gt;
+&lt;h4 id=&#34;select函数提取列&#34;&gt;Select()函数|提取【列】&lt;/h4&gt;
+&lt;p&gt;select()函数的参数列表中,指定数据框的列时没有引号,也就是&lt;strong&gt;将列名称作为变量名&lt;/strong&gt;,而不是字符串,这被称为非标准评估(NSE).这使得dplyr更易编写和读取,但在使用存储在变量中的列名时,有可能遇到错误.若遇到错误,则改用baseR语法(如美元符号和括号符号) &lt;br&gt;
+**辨别:**selcet()选择单个列也会返回数据框,(对比之下,用括号表示法选择单列则会返回向量).如果要从数据框选择特定的列或值,可以用baseR语法或者用dplyr中的&lt;code&gt;pull()&lt;/code&gt;函数.&lt;strong&gt;通常,使用dplyr操作数据框,使用baseR引用数据框中的特定值&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;library(pscl)
+names(presidentialElections) #1097 obs , of 4 variables
+votes &amp;lt;- select(presidentialElections,year,demVote)  # 列名year\demVote不带引号!
+votes &amp;lt;- presidentialElections[,c(&amp;#34;year&amp;#34;,&amp;#34;demVote&amp;#34;)]  # baseR语法可以实现等价操作!
+
+select(presidentialElections,state:year)
+select(presidentialElections, -demVote)
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;fliter函数提取行&#34;&gt;Fliter()函数|提取【行】&lt;/h4&gt;
+&lt;p&gt;**注意：**如果使用的数据框有行名称，&lt;strong&gt;执行dplyr函数时会删除行名称&lt;/strong&gt;。如果想要保留这些行名称，可以考虑将其作为特征值存储于数据框的一列，以便能够在清理和分析中包含这些名称。可以使用&lt;code&gt;mutate()&lt;/code&gt;函数将行名添加为列.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;votes_2008 &amp;lt;- filter(presidentialElections,year == 2008)
+votes_2008 &amp;lt;- presidentialElections[presidentialElections$year == 2008, ] #与上句等价
+votes &amp;lt;- colorado_2008 &amp;lt;- filter(presidentialElections,year == 2008,state == &amp;#34;Colorado&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;mutate函数修改列&#34;&gt;mutate()函数|修改【列】&lt;/h4&gt;
+&lt;p&gt;mutate()函数实际上没有更改数据框，只是返回一个添加了额外列的&lt;strong&gt;新数据框&lt;/strong&gt;，通常我们用新数据框顶替了旧数据框。&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;#将行名rownames存储为dataframe中的一列。因为dplyr操作之后，行名会丢失，所以要备份。
+presidentialElections &amp;lt;- mutate(presidentialElections,row_names = rownames(presidentialElections))
+
+presidentialElections &amp;lt;- mutate(
+  presidentialElections,
+  other_parties_vote = 100-demVote,
+  abs_vote_diffrence = abs(demVote - other_parties_vote)
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;**重命名列：&lt;strong&gt;使用dplyr包提供的&lt;/strong&gt;rename()**函数,rename函数实际上是将命名参数传递给select()函数以选择要重命名的列.&lt;/p&gt;
+&lt;h4 id=&#34;arrange函数排序行&#34;&gt;arrange()函数|排序【行】&lt;/h4&gt;
+&lt;p&gt;arrange()函数允许&lt;strong&gt;根据一些特征值(列值),对数据框中的[行]进行排序&lt;/strong&gt;.默认按照&lt;strong&gt;递增的顺序&lt;/strong&gt;进行排序.若想要递减排序,则使用&lt;code&gt;desc()&lt;/code&gt;函数或在列名前面加负号&lt;code&gt;-&lt;/code&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;#按年份递减（加负号）；按demVote递增排列
+presidentialElections &amp;lt;- arrange(presidentialElections, -year , demVote)
+&lt;/code&gt;&lt;/pre&gt;&lt;h4 id=&#34;summarize函数汇总&#34;&gt;summarize()函数|汇总&lt;/h4&gt;
+&lt;p&gt;summarize()函数的作用:生成一个包含汇总值的数据框,可以使用baseR或pull()进行&lt;strong&gt;引用&lt;/strong&gt;.&lt;br&gt;
+summarize()可以接受&amp;quot;任何以向量为阐述,返回值为单个值的函数&amp;quot;以实现对列的聚合.例如mean()\max()\median()等,也可自己编写汇总函数.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;average_votes &amp;lt;- summarize(presidentialElections,
+                           mean_dem_vote = mean(demVote),
+                           mean_other_parties = mean(other_parties_vote))
+
+#构建函数,在向量中查找距离50最远的元素.
+furthest_from_50 &amp;lt;- function(vec){
+  adjusted_value &amp;lt;- vec-50
+  vec[abs(adjusted_value)==max(abs(adjusted_value))]
+}
+summarize(presidentialElections,
+          biggest_landslide = furthest_from_50(demVote))
+#结果:查找投票支持率距离50%最远的选举.
+&lt;/code&gt;&lt;/pre&gt;&lt;h3 id=&#34;管道执行顺序操作&#34;&gt;管道|执行顺序操作&lt;/h3&gt;
+&lt;p&gt;目标:使用一个函数的结果,作为下一个函数的参数.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;不好的方法:(1)产生很多中间变量;(2)匿名变量(函数结果不分配变量,而是直接作用于其他函数的参数)&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;管道运算符&lt;code&gt;%&amp;gt;%&lt;/code&gt;(快捷键Ctrl+Shift+M)可以实现这个目标!为了便于调试,最好把管道序列的每个步骤单独放在自己的行上.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;most_dem_state &amp;lt;- presidentialElections %&amp;gt;% 
+  filter(year == 2008) %&amp;gt;% 
+  filter(demVote == max(demVote)) %&amp;gt;% 
+  select(state)
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;管道符向右传递参数!presidentialElections数据框作为filter函数的第一个参数,直接被传入第一个filter函数中,然后依次进行运算并向后传递.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;按组分析&#34;&gt;按组分析&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;group_by()&lt;/code&gt;函数允许在数据框中的行组之间创建关联.不会显式地将数据分成不同的块或箱,就可以对数组进行操作,函数返回一个tibble,这是tidyverse使用的数据框版本,它能跟踪同一变量中的&amp;quot;子集(组)&amp;quot;.使用&lt;code&gt;group_by()&lt;/code&gt;对数据框进行分组后,可以将其他函数(如summarize()\filter())应用于该tibble,它们将&lt;strong&gt;自动应用于每个组(就像按组分成一些数据框一样)&lt;/strong&gt;.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;grouped &amp;lt;- group_by(presidentialElections , state)
+# presidentialElections的类型是tbl_df ,而grouped的类型是grouped_df
+
+state_voting_summary &amp;lt;- presidentialElections %&amp;gt;% 
+  group_by(state) %&amp;gt;% 
+  summarize(mean_dem_vote=mean(demVote),mean_other_parties=mean(other_parties_vote))
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;意义：这种分组形式允许快速比较不同的数据子集，重新定义了数据分析单元，分组允许根据观测组而不是单个观测结果来分析问题。使询问和回答有关数据的复杂问题更容易了。&lt;/p&gt;
+&lt;h3 id=&#34;连接数据框&#34;&gt;连接数据框&lt;/h3&gt;
+&lt;p&gt;当我们需要访问两个数据集中的信息，同时引用两个数据框中的值，这叫做组合数据框。将两个数据框连接后，可以识别两个表中的列，并用这些列相互匹配对应的行。这些列值作为确定每个表中哪些行相互对应的标识符，进而将对应行组合成连接表中的一行。&lt;br&gt;
+左连接（&lt;code&gt;left_join()&lt;/code&gt;)使最常见的连接函数之一.实际上就是合并表(返回新的数据框包括第一个(左)数据框的全部列,再加上第二个(右)数据框的其他列).&lt;br&gt;
+&lt;a href=&#34;stat545.com/bit001_dplyr-cheatsheet.html&#34;&gt;dplyr连接函数备忘单&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;章末实操dplyr-in-action-analyzing-flight-data&#34;&gt;【章末实操】dplyr in Action: Analyzing Flight Data&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;library(&amp;#34;nycflights13&amp;#34;)          # in each relevant script
+library(&amp;#34;dplyr&amp;#34;)                 # load the dplyr library
+library(&amp;#34;ggplot2&amp;#34;)               # for plotting
+
+?flights          # read the available documentation
+dim(flights)      # check the number of rows/columns
+colnames(flights) # inspect the column names
+
+# Q1：哪家公司延迟起飞的次数最多？
+# Identify the airline (`carrier`) that has the highest number of delayed flights
+has_most_delays &amp;lt;- flights %&amp;gt;%            # start with the flights
+  group_by(carrier) %&amp;gt;%                   # group by airline (carrier)
+  filter(dep_delay &amp;gt; 0) %&amp;gt;%               # find only the delays
+  summarize(num_delay = n()) %&amp;gt;%          # count the observations
+  filter(num_delay == max(num_delay)) %&amp;gt;% # find most delayed
+  select(carrier)                         # select the airline
+
+#上面得到的是公司简写“UA”，现在从airlines数据框里获取公司全称
+most_delayed_name &amp;lt;- has_most_delays %&amp;gt;%  # start with the previous answer
+  left_join(airlines, by = &amp;#34;carrier&amp;#34;) %&amp;gt;% # join on airline ID
+  select(name)                            # select the airline name
+print(most_delayed_name$name) # access the value from the tibble
+
+
+
+#Q2：平均来看，航班最早到达哪个机场？【建议：逐句检查，看其中是否有问题，不要一口气跑到最后】
+# Calculate the average arrival delay (`arr_delay`) for each destination (`dest`)
+most_early &amp;lt;- flights %&amp;gt;%
+  group_by(dest) %&amp;gt;% # group by destination 按机场destination进行分组
+  summarize(delay = mean(arr_delay)) # compute mean delay 分组计算各组达到延迟的平均值
+
+# 【对上句进行调整：移除NA值】Compute the average delay by destination airport, omitting NA results
+most_early &amp;lt;- flights %&amp;gt;%
+  group_by(dest) %&amp;gt;% # group by destination
+  summarize(delay = mean(arr_delay, na.rm = TRUE)) # compute mean delay
+
+# Identify the destination where flights, on average, arrive most early
+most_early &amp;lt;- flights %&amp;gt;%
+  group_by(dest) %&amp;gt;% # group by destination
+  summarize(delay = mean(arr_delay, na.rm = TRUE)) %&amp;gt;% # compute mean delay, ignore NA
+  filter(delay == min(delay, na.rm = TRUE)) %&amp;gt;% # filter for the *least* delayed
+  select(dest, delay) %&amp;gt;% # select the destination (and delay to store it)
+  left_join(airports, by = c(&amp;#34;dest&amp;#34; = &amp;#34;faa&amp;#34;)) %&amp;gt;% # join on `airports`data frame
+  select(dest, name, delay) # select output variables of interest
+
+print(most_early)
+
+
+
+# Q3:航班在哪个月延迟最久？
+# 【不转存数据，最后直接传到print（）函数打印出来】Identify the month in which flights tend to have the longest delays
+flights %&amp;gt;%
+  group_by(month) %&amp;gt;% # group by selected feature
+  summarize(delay = mean(arr_delay, na.rm = TRUE)) %&amp;gt;% # summarize value of interest
+  filter(delay == max(delay)) %&amp;gt;% # filter for the record of interest
+  select(month) %&amp;gt;% # select the column that answers the question
+  print() # print the tibble out directly
+
+# Compute delay by month, adding month names for visual display
+# Note, `month.name` is a variable build into R
+delay_by_month &amp;lt;- flights %&amp;gt;%
+  group_by(month) %&amp;gt;%
+  summarize(delay = mean(arr_delay, na.rm = TRUE)) %&amp;gt;%
+  select(delay) %&amp;gt;%
+  mutate(month = month.name)
+
+# Create a plot using the ggplot2 package (described in Chapter 17)
+ggplot(data = delay_by_month) +
+  geom_point(
+    mapping = aes(x = delay, y = month), 
+    color = &amp;#34;blue&amp;#34;,
+    alpha = .4, 
+    size = 3
+  ) +
+  geom_vline(xintercept = 0, size = .25) +
+  xlim(c(-20, 20)) +
+  scale_y_discrete(limits = rev(month.name)) +
+  labs(title = &amp;#34;Average Delay by Month&amp;#34;, y = &amp;#34;&amp;#34;, x = &amp;#34;Delay (minutes)&amp;#34;)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;第十二章-使用tidyr重塑数据&#34;&gt;第十二章 使用tidyr重塑数据&lt;/h2&gt;
+&lt;h3 id=&#34;数据整洁之道&#34;&gt;数据整洁之道&lt;/h3&gt;
+&lt;p&gt;tidyr包构建和使用数据框遵循三个整洁数据的规则：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;每个变量都在一列中&lt;/li&gt;
+&lt;li&gt;每次观测结果对应一行&lt;/li&gt;
+&lt;li&gt;每个值对应一个单元格&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;gather由宽转为长格式&#34;&gt;gather()|由宽转为长格式&lt;/h3&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;band_data_long &amp;lt;- gather(
+  band_data_wide,
+  key = band,      #宽型数据的带合并那几列的列名(作为新建band列里面的值)
+  value = price,   #将宽型数据待整合的矩形数值(value)整理到新的长形数据框的新建列price作为列内的值
+  -city            #指定了宽型数据中哪几列属于&amp;#34;待整合的数据&amp;#34;,语法类似于select()函数
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;注意:gather的参数比较难记忆,可以尝试跟踪表中每个值移动的位置.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;gather的第一个参数为待处理的数据框;第二个参数为key&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;spread由长转为宽格式&#34;&gt;spread()|由长转为宽格式&lt;/h3&gt;
+&lt;p&gt;spread()函数可以根据现有的&lt;strong&gt;两列&lt;/strong&gt;创建多个特征(列).函数的作用:为所提供的key列中的每一个唯一值创建一个新列,其中的值取自value列.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;price_by_band &amp;lt;- spread(
+  band_data_long,
+  key = city,      #与上例不同,上例的&amp;#34;宽型&amp;#34;待处理列名为band,这里则想要将长型的city列里的值作为宽型的列名.
+  value = price
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;strong&gt;unite()&lt;/strong&gt;&lt;br&gt;
+将多个列合并为一个列。 &lt;br&gt;
+&lt;strong&gt;separate()&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;实战探索教育统计&#34;&gt;实战|探索教育统计&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;数据:&lt;a href=&#34;data.worldbank.org/education&#34;&gt;世界银行浏览器&lt;/a&gt;下载的.&lt;/li&gt;
+&lt;li&gt;数据集的缺陷:(1).csv文件顶部不必要的行;(2)大量缺失数据;(3)带有特殊字符的长列名&lt;br&gt;
+载入数据:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;# 跳过前四行废行。字符串不要读取为factor。
+#注意：表格中列名只有数字的话，会自动加`X`字母前缀
+wb_data &amp;lt;- read.csv(
+  &amp;#34;data/world_bank_data.csv&amp;#34;,
+  stringsAsFactors = F,
+  skip = 4
+)
+&lt;/code&gt;&lt;/pre&gt;&lt;h2 id=&#34;第十三章-访问数据库&#34;&gt;第十三章 访问数据库&lt;/h2&gt;
+&lt;h3 id=&#34;关系数据库&#34;&gt;关系数据库&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;数据库&lt;/strong&gt;是用于保存、组织和访问信息的专门应用程序。直接从数据库访问数据避免了将所有数据放入内存的无所适从。计算机将不用同时保存对所有数据的引用，而是能够将数据操作（选择和过滤数据）应用于计算机硬盘上的数据。&lt;br&gt;
+&lt;strong&gt;关系数据库&lt;/strong&gt;：将数据组织到在概念和结构上与数据框类似的表中。表中每一行（也叫“记录”）表示单个“项”或观测结果；每一列（也叫“字段”）表示该项的单个数据属性。通过这种方式，数据框反映了R中的数据框，某种程度上，它们是等价的。但是关系数据库有很多不同的表组成，每个表都表示数据的不同方面（如一个表存储单只歌曲信息，一个表存储艺术家的信息）。&lt;br&gt;
+&lt;strong&gt;主键&lt;/strong&gt;：关系数据库特别之处就在于如何指定这些表之间的关系，表中每个记录（行）都被赋予一个被成为主键的字段（列）。主键是每一行的唯一值，因此可以通过主键来引用特定记录（行）。主键可以是任何唯一的识别符，但它们&lt;strong&gt;几乎总是数字&lt;/strong&gt;，并且经常由数据库自动生成和分配。数据库不能只使用“行号”作为主键，因为记录（行）可能被添加删除或重新排序。&lt;br&gt;
+&lt;strong&gt;外键&lt;/strong&gt;：可以将外键看作是为&lt;code&gt;join()&lt;/code&gt;函数的&lt;code&gt;by&lt;/code&gt;参数定义一个匹配列的固定方法.使用外键可以将表连接在一起。&lt;br&gt;
+&lt;strong&gt;桥接表&lt;/strong&gt;（bridge table）数据库中只包含与其他表相连接的外键，其记录表示两外两个表之间的关联，可以将此视为“关联其他表的表”。&lt;br&gt;
+&lt;strong&gt;软件&lt;/strong&gt; 几个流行的关系数据库管理系统（RDMS）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SQLite：最简单的SQL数据库系统。工程实践中少用，常用于测试和开发。&lt;a href=&#34;sqlite.org/index.html&#34;&gt;SQL下载&lt;/a&gt;;SQLite的&lt;a href=&#34;sqlitebrowser.org&#34;&gt;DB浏览器&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PostgreSQL:缩写作&lt;a href=&#34;postgresql.org&#34;&gt;Postgres&lt;/a&gt;是免费开源的RDMS,更完整全面.计算机上将安装管理器,并提供一个图形化的应用程序pgAdmin来管理数据库.&lt;/li&gt;
+&lt;li&gt;MySQL:免费但不开源的RDMS,比上一个产不多,但更受欢迎.从&lt;a href=&#34;mysql.com&#34;&gt;官网&lt;/a&gt;下载并安装&lt;code&gt;Community Server Edition&lt;/code&gt;就行,不需要注册账户.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;sql语句&#34;&gt;SQL语句&lt;/h2&gt;
+&lt;p&gt;SQL(结构化查询语言)是一种用于查询(访问)数据库的结构化编程语言,专门用于管理关系数据库中的数据.完全可以&lt;strong&gt;不使用SQL而通过R访问和操作数据库&lt;/strong&gt;．但本节就是要了解R操作的底层命令，并且SQL有助于项目合作．　　&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;w3schools为新搜提供了友好的&lt;a href=&#34;w3schools.com/sql/default.asp&#34;&gt;SQL语法和用法教程&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;SQL中注释单独占一行用&lt;code&gt;/*     */&lt;/code&gt;囊括在中间.&lt;br&gt;
+&lt;code&gt;SELECT columnname FROM tablename&lt;/code&gt;  左边的SQL相当于R中的  &lt;code&gt;select(tablename,columnname)&lt;/code&gt;
+(SQL不区分大小写,习惯性地将诸如SELECT这样的关键字所有字母都大写,而列名和表名则小写.)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;SQL中,可以用逗号隔开列名,达到选择多个列的目的.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;使用&lt;code&gt;*&lt;/code&gt;号表示&amp;quot;所有内容&amp;quot;(&lt;strong&gt;通配符&lt;/strong&gt;):&lt;code&gt;SELECT * FROM tablename&lt;/code&gt;将返回表中的所有列,即加载整个表.&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;AS&lt;/code&gt;作为关键词,&lt;strong&gt;为结果列指定一个新名称&lt;/strong&gt;(类似于mutate操作).它不改变表,只改变查询结果&amp;quot;子表&amp;quot;的列标签.
+&lt;code&gt;SELECT id AS song_id FROM songstable&lt;/code&gt; 表示从songstable表中取出id列,并命名其为song_id.&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;WHERE&lt;/code&gt;子句进行&lt;strong&gt;筛选&lt;/strong&gt;操作:&lt;code&gt;SELECT columnname FROM tablename WHERE artist_id = 11&lt;/code&gt; ,筛选条件将应用于整个表,而不仅仅是所选列.SQL中筛选发生在所选内容之前. &lt;br&gt;
+相当于r中的dplyr语句&lt;code&gt;filter(tablename,artist_id == 11)%&amp;gt;%select(columnname)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;JOIN&lt;/code&gt;子句实现&lt;strong&gt;跨多个表存储和查询数据(内连接)&lt;/strong&gt;:&lt;code&gt;SELECT columns FROM artists JOIN songs ON songs.artist_id = artists.id&lt;/code&gt;&lt;br&gt;
+JOIN子句类似于dplyr中的&lt;strong&gt;内连接&lt;/strong&gt;操作,即只返回两个表中匹配成功的行,连接后的表中将没有不匹配的行.也可以指定执行左连接(LEFT JOIN);右连接(RIGHT JOIN);外连接(OUTER JOIN)也叫完全连接.&lt;/p&gt;
+&lt;h2 id=&#34;从r访问数据库&#34;&gt;从R访问数据库&lt;/h2&gt;
+&lt;p&gt;使用R包可以直接连接和查询数据库,而不需要通过RDMS提供的解释器来执行SQL.&lt;br&gt;
+最简单的r包是&lt;code&gt;dbplyr&lt;/code&gt;包,作为tidyverse的一部分,允许使用dplyr函数查询关系数据库,避免了使用外部应用程序.dbplyr是一个外部包,但实际上是dplyr的&amp;quot;&lt;strong&gt;后端&lt;/strong&gt;&amp;quot;(提供了dplyr处理数据库的后台代码),而实际使用的就是dplyr中的函数,因此安装后不需加载,只要&lt;strong&gt;加载dplyr即可.还需要加载DBI包&lt;/strong&gt;,该包与dbplyr一起安装,允许我们连接到数据库.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;library(dplyr)
+library(DBI)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;还需要根据带访问的&lt;strong&gt;数据库类型&lt;/strong&gt;再安装一个附加包,这些包提供了跨多个数据库格式的公共接口(函数集)并允许使用相同的R函数访问SQLite数据库和Postgres数据库.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;library(RSQLite)
+library(RPostgreSQL)  
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;数据库是通过RDMS管理和访问的,RDMS是独立于R解释器的程序,因此需要&amp;quot;连接&amp;quot;到外部RDMS程序,并使用R通过它发出的语句,才能通过R访问数据库.可以使用&lt;code&gt;DBI&lt;/code&gt;包提供的&lt;code&gt;dbConnect()&lt;/code&gt;函数连接到外部数据库,记住用完数据库后要断开连接:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;db_connection &amp;lt;- dbConnect(SQLite(),dbname = &amp;#34;path/to/database.sqlite&amp;#34;)
+
+dbDisconnect(db_connection)
+&lt;/code&gt;&lt;/pre&gt;&lt;blockquote&gt;
+&lt;p&gt;dbConnect()函数介绍:第一个参数是&amp;quot;数据库连接包如RSQLite提供的&#39;连接&#39;接口&amp;quot;;其余参数指定数据库位置并且取决于它是那种类型的数据库以及数据库在哪里.如&lt;code&gt;dbname&lt;/code&gt;指定本地SQLite数据库文件的路径;&lt;code&gt;host&lt;/code&gt;,&lt;code&gt;user&lt;/code&gt;,&lt;code&gt;password&lt;/code&gt;指定连接到远程计算机上的数据库.不要将数据库密码包含在R脚本中:通过RStudio使用&lt;code&gt;rstudioapi&lt;/code&gt;包中的**askForPassword()**函数提示用户输入密码(将弹出一个窗口,供用户键入密码).参见&lt;a href=&#34;cran.r-project.org/web/packages/dbplyr/vignettes/dbplyr.html&#34;&gt;dbplyr简介&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;连接到数据库后,使用&lt;code&gt;dbListTables()&lt;/code&gt;函数获取包含所有表名的向量,这对检查是否已连接到数据库以及查看哪些数据可用很有帮助.&lt;br&gt;
+因为所有SQL查询都是访问特定表中的数据,因此需要先为该表创建变量形式的引用.可以使用&lt;code&gt;dplyr&lt;/code&gt;提供的**tbl()**函数,此函数参数包括与数据库的连接以及要引用的表的名称.例如查询songs表:&lt;code&gt;songs_table &amp;lt;- tbl(db_connection, &amp;quot;songs&amp;quot;)&lt;/code&gt;此时打印songs_tabe表就像是普通的数据框,接下来就可以使用dplyr函数进行操作,只需使用表代替数据框进行操作.&lt;br&gt;
+dbplyr包将自动将dplyr函数转换为等效的SQL语句,而无须编写任何SQL!&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;queen_songs_query &amp;lt;- songs_table %&amp;gt;% filter(artist_id == 11) %&amp;gt;% select(title) 
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;使用&lt;code&gt;show_query()&lt;/code&gt;可以看到上面这句代码所暗地里生成的SQL语句.&lt;br&gt;
+另外,在表上使用dplyr方法不会返回数据框,只是显示所请求数据的小预览.因为dbplyr使用&lt;strong&gt;惰性求值&lt;/strong&gt;,只有在被明确告知需要查询时,才对数据库执行查询操作.打印queen_songs_query时显示的内容只是数据的一个子集.惰性求值防止意外地进行大量的查询和下载大量的数据.&lt;/p&gt;
+&lt;p&gt;使用&lt;code&gt;collect()&lt;/code&gt;函数&lt;strong&gt;实际查询数据库并将结果作为可操作的R值加载到内存中&lt;/strong&gt;.通常将collect()函数的调用添加为dplyr调用管道中的最后一步.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;总结:通过R从数据库中查询数据的步骤&lt;/strong&gt;&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code class=&#34;language-{r}&#34; data-lang=&#34;{r}&#34;&gt;db_connection &amp;lt;- dbConnect(SQLite(),dbname=&amp;#34;path/to/database.sqlite&amp;#34;)
+
+some_table &amp;lt;- tbl(db_connection, &amp;#34;TABLE_NAME&amp;#34;)
+
+db_query &amp;lt;- some_table %&amp;gt;% filter(some_column == some_value)
+
+results &amp;lt;- collect(db_query)
+
+dbDisconnect(db_connection)
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;(1)创建一个指向RDMS的连接;&lt;br&gt;
+(2)为数据库创建变量形式的引用;&lt;br&gt;
+(3)使用dplyr语法对引用的表进行操作;&lt;br&gt;
+(4)让操作实际发生;&lt;br&gt;
+(5)断开数据库连接&lt;/p&gt;
+&lt;h2 id=&#34;第十四章-访问web-api&#34;&gt;第十四章 访问Web API&lt;/h2&gt;
+&lt;p&gt;R脚本通过Web服务提供的应用程序编程接口(API)访问数据。许多Web服务遵循名为表述性状态传递（REST）的特定样式，本章介绍了如何通过RESTful API访问和使用数据。&lt;br&gt;
+Interface（可以调用以访问数据的“函数集”）采用HTTP请求（即遵循超文本传输协议发送数据的请求）的形式使用Web服务。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;URI&lt;/strong&gt;：统一资源标识符&lt;br&gt;
+&lt;strong&gt;URL&lt;/strong&gt;：统一资源定位器&lt;/p&gt;
+</content>
+            
+            
+            
+                
+                
+                
+                    
+                    
+                    
+                
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>
